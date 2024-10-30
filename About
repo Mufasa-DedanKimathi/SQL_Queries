@@ -1,0 +1,42 @@
+# SQL_Queries
+
+Welcome to the SQL_Queries repository. This repository features a range of optimized SQL queries for data extraction, manipulation, and reporting.
+
+## Table of Contents
+1. Introduction
+2. Query List
+3. Setup and Installation
+4. Usage
+5. Contributing
+6. License
+
+## Introduction
+This collection of SQL queries showcases techniques for extracting, manipulating, and reporting data efficiently. Improve your SQL skills with practical examples and best practices.
+
+## Query List
+1. **Data Extraction and Filtering**:
+   - Queries for retrieving and filtering data from databases.
+   
+2. **Aggregation and Grouping**:
+   - Techniques for summarizing data using aggregate functions.
+   
+3. **Joins and Subqueries**:
+   - Examples of joining tables and using subqueries for complex data retrieval.
+   
+4. **Performance Optimization**:
+   - Tips and queries for optimizing database performance.
+   
+5. **Data Transformation**:
+   - Queries for transforming and formatting data for analysis.
+
+## Setup and Installation
+Ensure you have access to a database server. Use a SQL client to execute the queries provided in each project folder.
+
+## Usage
+Each project folder contains SQL scripts and a README with detailed instructions. Follow the guidelines in each file to understand and apply the queries.
+
+## Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss potential changes.
+
+## License
+This repository is licensed under the MIT License. See the LICENSE file for more information.
